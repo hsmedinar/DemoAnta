@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demotawa</string>
+    <string name="database">DBTawa</string>
+
+    <string name="img_url">http://quiz.anda.pe/api/images</string>
+    <string name="img_create">http://quiz.anda.pe/api/image/create</string>
+
+
+
+
+</resources>

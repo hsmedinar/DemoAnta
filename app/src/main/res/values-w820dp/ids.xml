@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="name_app" type="id"></item>
+    <item name="image" type="id"></item>
+    <item name="imageBig" type="id"></item>
+    <item name="list_images" type="id"></item>
+    <item name="item_click_support" type="id" />
+
+
+
+
+</resources>
